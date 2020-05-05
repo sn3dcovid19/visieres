@@ -34,10 +34,10 @@ The main objective is to:
 
 The specific objectives are to:
 * create an open source decentralized Research & Development and manufacturing system by:
- * Quantifying hospital needs
- * Connecting it to local fablabs (association, startups, schools, universities) for productionby coordinating  
- * delivery logistics and production
- * Raising funds to support this decentralized infrastructure
+  * Quantifying hospital needs
+  * Connecting it to local fablabs (association, startups, schools, universities) for productionby coordinating  
+  * delivery logistics and production
+  * Raising funds to support this decentralized infrastructure
 * create a training and sharing framework to support the new makers involved in the project and help the implementation of the project in other countries in Africa.
 
 
@@ -106,12 +106,12 @@ distribution gratuite.
 Les objectifs spécifiques consistent à :
 * créer un système de Recherche & Développement et de fabrication décentralisé open
 source en :
- * Quantifiant les besoins des hôpitaux
- * Le connectant aux fablabs locaux (association, startups, écoles, universités) pour
+   * Quantifiant les besoins des hôpitaux
+   * Le connectant aux fablabs locaux (association, startups, écoles, universités) pour
 la production
- * en assurant la coordination de la logistique de livraison et de la production
- * Faisant la collecte de fonds pour supporter cette infrastructure décentralisée
-* créer un cadre de formation et de partage pour accompagner les nouveaux makers
+   * en assurant la coordination de la logistique de livraison et de la production
+   * Faisant la collecte de fonds pour supporter cette infrastructure décentralisée
+   * créer un cadre de formation et de partage pour accompagner les nouveaux makers
 impliqués dans le projet et aider l'implémentation du projet dans d’autres pays en
 Afrique.
 
