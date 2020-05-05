@@ -4,6 +4,7 @@
 
 This GitHub Repo is our place to organize the files for printing visors  
 
+![Image of campaign](https://github.com/sn3dcovid19/visieres/blob/master/Visor_format_instagram-01.png)
 
 :clipboard: **Abstract:** :clipboard:
 
@@ -60,7 +61,7 @@ If you want to contribute to any these projects, contact us at :email: [sn3dcovi
 
 On utilise GitHub Repo pour organiser les fichiers pour l'impression de visieres.  
 
-![Image of campaign](https://github.com/sn3dcovid19/visieres/blob/master/Visor_format_instagram-01.png)
+![Image of campaign](https://github.com/sn3dcovid19/visieres/blob/master/format_instagram-01.jpg)
 
 :clipboard: **Contexte:** :clipboard:
 
