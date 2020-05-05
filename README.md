@@ -19,9 +19,11 @@ The SN3DCOVID19 collective is a citizen movement born in Senegal to promote loca
 
 :clipboard: **Values:** :clipboard:
 
-Markup : * Solidarity
-         * Transparency
-         * Caring
+Markup : 
+
+* Solidarity
+* Transparency
+* Caring
          * Sharing
          * Collaboration
          * Community
