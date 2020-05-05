@@ -30,22 +30,22 @@ The SN3DCOVID19 collective is a citizen movement born in Senegal to promote loca
 :clipboard: **Goals:** :clipboard:
 
 The main objective is to:
-+set up a voluntary and local production and supply chain of medical equipment necessary for health personnel and ensure their free distribution.
+* set up a voluntary and local production and supply chain of medical equipment necessary for health personnel and ensure their free distribution.
 
 The specific objectives are to:
-+create an open source decentralized Research & Development and manufacturing system by:
-           +Quantifying hospital needs
-           +Connecting it to local fablabs (association, startups, schools, universities) for productionby coordinating  
-            delivery logistics and production
-           +Raising funds to support this decentralized infrastructure
-+create a training and sharing framework to support the new makers involved in the project and help the implementation of the project in other countries in Africa.
+* create an open source decentralized Research & Development and manufacturing system by:
+ * Quantifying hospital needs
+ * Connecting it to local fablabs (association, startups, schools, universities) for productionby coordinating  
+ * delivery logistics and production
+ * Raising funds to support this decentralized infrastructure
+* create a training and sharing framework to support the new makers involved in the project and help the implementation of the project in other countries in Africa.
 
 
 :memo: **Targets:** 
-Core target : Hospitals in charge of COVID-19 in Senegal
-Secondary target: Other hospitals and pharmacies
-Tertiary target: General public
-Interests of the target: Health
+* Core target : Hospitals in charge of COVID-19 in Senegal
+* Secondary target: Other hospitals and pharmacies
+* Tertiary target: General public
+* Interests of the target: Health
 
 
 If you want to contribute to any these projects, contact us at :email: [sn3dcovid19@gmail.com] :email:
@@ -89,38 +89,38 @@ distributeurs automatiques, des respirateurs et des écouvillons naso pharyngés
 :clipboard: **Valeurs:** :clipboard:
 
 Le collectif repose sur les valeurs :
-● Solidarité
-● Transparence
-● Entraide
-● Partage
-● Collaboration
-● Communauté
-● Promotion de la production locale adaptée à notre contexte
+* Solidarité
+* Transparence
+* Entraide
+* Partage
+* Collaboration
+* Communauté
+* Promotion de la production locale adaptée à notre contexte
 
 :clipboard: **Objectifs:** :clipboard:
 
 L’objectif principal est de :
-● mettre en place une chaîne de production et d'approvisionnement bénévole et locale
+* mettre en place une chaîne de production et d'approvisionnement bénévole et locale
 d'équipements médicaux nécessaires pour les personnels de santé et assurer leur
 distribution gratuite.
 Les objectifs spécifiques consistent à :
-● créer un système de Recherche & Développement et de fabrication décentralisé open
+* créer un système de Recherche & Développement et de fabrication décentralisé open
 source en :
-○ Quantifiant les besoins des hôpitaux
-○ Le connectant aux fablabs locaux (association, startups, écoles, universités) pour
+ * Quantifiant les besoins des hôpitaux
+ * Le connectant aux fablabs locaux (association, startups, écoles, universités) pour
 la production
-○ en assurant la coordination de la logistique de livraison et de la production
-○ Faisant la collecte de fonds pour supporter cette infrastructure décentralisée
-● créer un cadre de formation et de partage pour accompagner les nouveaux makers
+ * en assurant la coordination de la logistique de livraison et de la production
+ * Faisant la collecte de fonds pour supporter cette infrastructure décentralisée
+* créer un cadre de formation et de partage pour accompagner les nouveaux makers
 impliqués dans le projet et aider l'implémentation du projet dans d’autres pays en
 Afrique.
 
 :clipboard: **Cibles:** :clipboard:
 
-● Cœur de cible : Hôpitaux en charge du COVID-19 au Senegal
-● Cible secondaire : Autres hôpitaux et les pharmacies
-● Cible tertiaire : Tout public
-● Centres d’intérêts de la cible : Santé
+* Cœur de cible : Hôpitaux en charge du COVID-19 au Senegal
+* Cible secondaire : Autres hôpitaux et les pharmacies
+* Cible tertiaire : Tout public
+* Centres d’intérêts de la cible : Santé
 
 
 Si vous avez voulez contribuer ou avez des suggestions ou des remarques par rapport à notre projet, contactez-nous par email :email: [sn3dcovid19@gmail.com] :email:
