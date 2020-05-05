@@ -60,6 +60,7 @@ If you want to contribute to any these projects, contact us at :email: [sn3dcovi
 
 On utilise GitHub Repo pour organiser les fichiers pour l'impression de visieres.  
 
+![Image of campaign](https://github.com/sn3dcovid19/visieres/blob/master/Visor_format_instagram-01.png)
 
 :clipboard: **Contexte:** :clipboard:
 
